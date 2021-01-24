@@ -68,8 +68,7 @@ Absolute evaluation will be used for this course.
 
 1. Attendance (40%)
 2. Participation (including pop-questions) (35%)
-3. Midterm exam (10%)
-4. Final exam (15%)
+3. Final exam (25%)
 
 For the attendance, I will use the pop-quiz (using google form), which will happen 2-3 times during the class. You have to submit your answers after I posted the link for quiz in the chatting, and for the attendance check, I will see the time you submitted your answers. 
 
