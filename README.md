@@ -54,8 +54,7 @@ Supplements: <br>
 
 ## Softwares
 
-Teaching how to use statistics packages or programming is not the main focus of this class. This class is more about statistical methods and theories. However, software packages and computer programming are actually essential in learning statistics. Therefore, I will provide two lectures about new software packages for statistical analysis, [JAMOVI](https://www.jamovi.org/) and [JASP](https://jasp-stats.org/). They are brand-new and open-source tools for statistical analysis. In addition, I might use Matlab, Python, or R sometimes. You can download Matlab through SKKU. Python and R are open-source programming languages. I'm planning to open a new experiment class to teach how to use these tools (maybe next year). Therefore, stay tuned. 
-
+Teaching how to use statistics packages or programming is not the main focus of this class. This class is more about statistical methods and theories. However, software packages and computer programming are actually essential in learning statistics. Therefore, I will provide two lectures about new software packages for statistical analysis, [JAMOVI](https://www.jamovi.org/) and [JASP](https://jasp-stats.org/). They are brand-new and open-source tools for statistical analysis. In addition, I might use Matlab, Python, or R sometimes. You can download Matlab through SKKU. Python and R are open-source programming languages. There will be "Biostats and Bigdata 2" next semester in which you can learn JAMOVI.  
 
 ## TAs
 
