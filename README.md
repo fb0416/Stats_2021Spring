@@ -6,7 +6,7 @@
 - Lecturer: Choong-Wan Woo, Ph.D. Assistant professor (GBME).
 - Office: N-center, 86335
 - Web: [Cocoan lab](http://cocoanlab.github.io)
-- E-mail: gbe3037.statprob@gmail.com 
+- E-mail: please send the message through direct message in slack. If you haven't joined the slack, send me the email to choongwan.woo at gmail dot com
 - Class: Mon 1:30-2:45, Wed 12:00-1:15 (online; youtube livestream)
 - Office hours: Wed 10:00-12:00
 
