@@ -91,7 +91,7 @@ Week  | Video lectures | Class | Chapters
 3/17 | [V06: Linear regression](https://www.youtube.com/watch?v=iWz45GWlRD0&t=0s&index=7&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28) <br> [V07: More about regression, re-expressing data](https://www.youtube.com/watch?v=evfC8aznCHM&t=0s&index=8&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28) | |Ch.7|
 **Week 5** | | | |
 3/22 | [V07: More about regression, re-expressing data-2](https://www.youtube.com/watch?v=evfC8aznCHM&t=0s&index=8&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28)<br> [V08: Sampling](https://youtu.be/uqkUIkZhf_Y) | | Ch.8-9  |
-3/24 | V09: Design Experiment<!--<br> Please complete [Quiz]()-->|  | Ch.11-12  |
+3/24 | V09: Design Experiment <br> if possible, activity regression to the mean<!--<br> Please complete [Quiz]()-->|  | Ch.11-12  |
 **Week 6** | | | |
 3/29 | [V10: Probability and bayes theorem](https://www.youtube.com/watch?v=pu4YeWys4s4) |  | Ch.13-14  |
 3/31 | [V11: Random variables](https://youtu.be/IvwQHuMiTm0) | | Ch.15  |
