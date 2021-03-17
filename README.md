@@ -84,14 +84,14 @@ Week  | Video lectures | Class | Chapters
 3/1 | [V02: Data visualization](https://youtu.be/Dip7moX2FDQ) | no class; pre-recording | Ch.2-3  |
 3/3 | [V03: Comparing distribution](https://youtu.be/XDThj7Rk1Fo)| | Ch.4  |
 **Week 3** | | | |
-3/8 |[V04: Normal model](https://youtu.be/XDThj7Rk1Fo?t=838) | | Ch.5  |
+3/8 | [V04: Normal model](https://youtu.be/XDThj7Rk1Fo?t=838) | | Ch.5  |
 3/10 | [V05: Scatterplots and correlation](https://youtu.be/nF0XT4rCzKU) |  | Ch.6  |
 **Week 4** | | | |
-3/15 | [V06: Linear regression](https://www.youtube.com/watch?v=iWz45GWlRD0&t=0s&index=7&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28)  |  | Ch.7 |
-3/17 | Activity: Regression to the mean | |
+3/15 | [V05: Scatterplots and correlation-2](https://youtu.be/nF0XT4rCzKU)  |  |Ch.6   |
+3/17 | [V06: Linear regression](https://www.youtube.com/watch?v=iWz45GWlRD0&t=0s&index=7&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28) <br> [V07: More about regression, re-expressing data](https://www.youtube.com/watch?v=evfC8aznCHM&t=0s&index=8&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28) | |Ch.7|
 **Week 5** | | | |
-3/22 | [V07: More about regression, re-expressing data](https://www.youtube.com/watch?v=evfC8aznCHM&t=0s&index=8&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28) | | Ch.8-9  |
-3/24 | [V08: Sampling](https://youtu.be/uqkUIkZhf_Y) <br>V09: Design Experiment<!--<br> Please complete [Quiz]()-->|  | Ch.11-12  |
+3/22 | [V07: More about regression, re-expressing data-2](https://www.youtube.com/watch?v=evfC8aznCHM&t=0s&index=8&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28)<br> [V08: Sampling](https://youtu.be/uqkUIkZhf_Y) | | Ch.8-9  |
+3/24 | V09: Design Experiment<!--<br> Please complete [Quiz]()-->|  | Ch.11-12  |
 **Week 6** | | | |
 3/29 | [V10: Probability and bayes theorem](https://www.youtube.com/watch?v=pu4YeWys4s4) |  | Ch.13-14  |
 3/31 | [V11: Random variables](https://youtu.be/IvwQHuMiTm0) | | Ch.15  |
