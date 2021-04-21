@@ -97,30 +97,30 @@ Week  | Video lectures | Class | Chapters
 3/31 | [V11: Random variables](https://youtu.be/IvwQHuMiTm0) | | Ch.15  |
 **Week 7** | | | |
 4/5 | [V12: Probability models](https://youtu.be/nROQGQtqECA) | | Ch.16  |
-4/7 | [V14: Sampling distribution, central limit theorem](https://youtu.be/KP26FzvZL7o) |  | Ch.17  |
+4/7 | Review | | Finished V12 and review |
 **Week 8** | | | |
 4/12 | mid-term | - |
 4/14 | [V13-1: JAMOVI](https://www.youtube.com/playlist?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn) <br> [V13-2: JASP](https://www.youtube.com/channel/UCSulowI4mXFyBkw3bmp7pXg) |  no class; pre-recording | -  |
 **Week 9** | | | |
-4/19 | [V15: Confidence interval for proportions](https://youtu.be/X1AYVK1Sqv4)  |  | Ch.18  |
-4/21 | [V16: Hypothesis testing, P-values](https://youtu.be/WyIAZ9HxpfI) |  | Ch.19 |
+4/19 | [V14: Sampling distribution, central limit theorem](https://youtu.be/KP26FzvZL7o) |  | Ch.17  |
+4/21 | [V15: Confidence interval for proportions](https://youtu.be/X1AYVK1Sqv4)  |  | Ch.18  |
 **Week 10** | | | |
-4/26 | [V17: Inferences about means](https://youtu.be/Hkl0__0kLh0) |  | Ch.20 |
-4/28 | [V18: More about tests and intervals](https://www.youtube.com/watch?v=Pk6UYTqb7ls&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=18&t=0s)  |  | Ch. 21| 
+4/26 |  [V16: Hypothesis testing, P-values](https://youtu.be/WyIAZ9HxpfI) |  | Ch.19 |
+4/28 | [V17: Inferences about means](https://youtu.be/Hkl0__0kLh0) |  | Ch.20 |
 **Week 11** | | | |
-5/3 | [V19:Comparing groups](https://www.youtube.com/watch?v=uRPJtGoMI2A&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=19&t=0s)  |  | Ch. 22  |
-5/5 | [V20: Paired t-test](https://youtu.be/OniGJUnPwVw) | no class; pre-recording | Ch. 23  |
+5/3 | [V18: More about tests and intervals](https://www.youtube.com/watch?v=Pk6UYTqb7ls&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=18&t=0s)  |  | Ch. 21| 
+5/5 | [V19:Comparing groups](https://www.youtube.com/watch?v=uRPJtGoMI2A&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=19&t=0s)  |  | Ch. 22  |
 **Week 12** | | | |
-5/10 | L21: Comparing counts  | Live lecture and Q&A | Ch. 24 |
-5/12 | [V22: Inferences about regression](https://www.youtube.com/watch?v=YEO5UAjRwsk) |  | Ch. 25 |
+5/10 | [V20: Paired t-test](https://youtu.be/OniGJUnPwVw) | no class; pre-recording | Ch. 23  |
+5/12 | L21: Comparing counts  | Live lecture and Q&A | Ch. 24 |
 **Week 13** | | | |
-5/17 | [V23: Analysis of Variance (ANOVA)](https://youtu.be/7M6XG5IviUk)  |  | Ch. 26  |
-5/19 | [V24: Multifactor ANOVA](https://youtu.be/Uxc2vO_QZjo) | no class; pre-recording | Ch.27  |
+5/17 | [V22: Inferences about regression](https://www.youtube.com/watch?v=YEO5UAjRwsk) |  | Ch. 25 |
+5/19 | [V23: Analysis of Variance (ANOVA)](https://youtu.be/7M6XG5IviUk)  |  | Ch. 26  |
 **Week 14** | | | |
-5/24 | [V25: Multiple regression](https://youtu.be/a44guv3Zmkg) | | Ch.28  |
-5/26 | [V26: Multiple regression wisdom](https://youtu.be/d6OzuWV2wks)| | Ch. 29|
+5/24 | [V24: Multifactor ANOVA](https://youtu.be/Uxc2vO_QZjo) | no class; pre-recording | Ch.27  |
+5/26 | [V25: Multiple regression](https://youtu.be/a44guv3Zmkg) | | Ch.28  |
 **Week 15** | | | |
-5/31 | Review  | | |
+5/31 | [V26: Multiple regression wisdom](https://youtu.be/d6OzuWV2wks)| | Ch. 29|
 6/2 | Final | | |
 
 _Note._ <br> 
