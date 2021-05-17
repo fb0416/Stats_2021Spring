@@ -112,16 +112,15 @@ Week  | Video lectures | Class | Chapters
 5/5 | [V19:Comparing groups](https://www.youtube.com/watch?v=uRPJtGoMI2A&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=19&t=0s)  | no class (어린이날); pre-recording | Ch. 22  |
 **Week 12** | | | |
 5/10 | [V20: Paired t-test](https://youtu.be/OniGJUnPwVw) |  | Ch. 23  |
-5/12 | L21: Comparing counts  | Live lecture and Q&A | Ch. 24 |
+5/12 | L21: Comparing counts & [V22: Inferences about regression](https://www.youtube.com/watch?v=YEO5UAjRwsk)  | Live lecture and Q&A | Ch. 24 & 25|
 **Week 13** | | | |
-5/17 | [V22: Inferences about regression](https://www.youtube.com/watch?v=YEO5UAjRwsk) |  | Ch. 25 |
-5/19 | [V23: Analysis of Variance (ANOVA)](https://youtu.be/7M6XG5IviUk)  | no class (석가탄신일); pre-recording | Ch. 26  |
+5/17 | [V23: Analysis of Variance (ANOVA)](https://youtu.be/7M6XG5IviUk)  |  | Ch. 26  |
+5/19 | [V24: Multifactor ANOVA](https://youtu.be/Uxc2vO_QZjo)  | no class (석가탄신일); pre-recording | Ch. 27  |
 **Week 14** | | | |
-5/24 | [V24: Multifactor ANOVA](https://youtu.be/Uxc2vO_QZjo) |  | Ch.27  |
-5/26 | [V25: Multiple regression](https://youtu.be/a44guv3Zmkg) | | Ch.28  |
+5/24 | [V25: Multiple regression](https://youtu.be/a44guv3Zmkg) | | Ch.28  |
+5/26 | [V26: Multiple regression wisdom](https://youtu.be/d6OzuWV2wks)| | Ch. 29|
 **Week 15** | | | |
-5/31 | [V26: Multiple regression wisdom](https://youtu.be/d6OzuWV2wks)| | Ch. 29|
-6/2 | Final | | |
+5/31-6/2 | Final | | |
 
 _Note._ <br> 
 
